@@ -1,7 +1,7 @@
 <?php
 
 
-namespace alex290\admin\widgets;
+namespace alex290\webpage\widgets;
 
 use yii\helpers\Html;
 use yii\helpers\Url;

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace alex290\admin\assets;
+namespace alex290\webpage\assets;
 
 class Asset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@alex290/admin/assets/scr';
+    public $sourcePath = '@alex290/webpage/assets/scr';
 
     public $css = [
         'css/main.css',

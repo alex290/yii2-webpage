@@ -17,6 +17,7 @@ class Asset extends \yii\web\AssetBundle
         'lib/ckeditor/ckeditor.js',
         // 'js/ckeditor.js',
         'js/grapesjs-plugin-ckeditor.min.js',
+        'js/grapesjs-blocks-basic.js',
     ];
 
     public $depends = [
